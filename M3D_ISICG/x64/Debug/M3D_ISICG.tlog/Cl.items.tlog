@@ -1,0 +1,17 @@
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\gl3w\GL\gl3w.c;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\gl3w.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\backends\imgui_impl_opengl3.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui_impl_opengl3.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\backends\imgui_impl_sdl.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui_impl_sdl.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\imgui.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\imgui_draw.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui_draw.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\imgui_tables.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui_tables.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\lib\imgui\imgui_widgets.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\imgui_widgets.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\application.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\application.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\common\camera.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\camera.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\common\models\triangle_mesh.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\triangle_mesh.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\common\models\triangle_mesh_model.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\triangle_mesh_model.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\lab_work_1\lab_work_1.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\lab_work_1.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\common\lab_work_manager.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\lab_work_manager.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\lab_work_2\lab_work_2.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\lab_work_2.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\lab_works\lab_work_3\lab_work_3.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\lab_work_3.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\main.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\main.obj
+C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\src\utils\image.cpp;C:\Users\TECHN\Desktop\M3D_ISICG-main\M3D_ISICG-main\M3D_ISICG\x64\Debug\image.obj
